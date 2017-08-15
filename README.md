@@ -77,7 +77,7 @@ Experience
   - Optimize infrastructure for maximum speed, usability, and reliability.
   - Translation of business needs into technical specifications and projects.
   
-    **Full-Stack Web Developer**, *Safa Academy.* 2006 – 2008
+  **Full-Stack Web Developer**, *Safa Academy.* 2006 – 2008
   - Development of web applications Use technologies such as PHP, MySQL and Javascript. 
   - Work with product, UX team to define, architect, and build new features, from concept to launch.
   - Build reusable code and libraries for future use.
