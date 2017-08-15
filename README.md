@@ -13,7 +13,7 @@ Management
 
 Technologies
 ---------------
-| Backend    | Modern Web | Databases | Frameworks   | Infrastructure | DevOps  | Platforms |
+| Programming| Modern Web | Databases | Frameworks   | Infrastructure | DevOps  | Platforms |
 |------------|------------|-----------|--------------|----------------|---------|-----------|
 | Python     | Webpack    | Postgres  | Laravel      | Linux          | Ansible | Magento   |
 | PHP        | React Js   | MYSQL     | Symfony      | AWS            | Jenkins | Shopware  |
