@@ -1,6 +1,6 @@
 Waleed Hussain Khan - CTO / Software Engineering Leader
 ---------------
-info@waleed.de | [github.com/admc](http://github.com/waleedhkhan) | [waleed.de](http://waleed.de)
+info@waleed.de | [Github](http://github.com/waleedhkhan) | [Website](http://waleed.de)
 
 Management
 ---------------
