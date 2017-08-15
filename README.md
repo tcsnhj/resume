@@ -65,11 +65,21 @@ EXPERIENCE
   **E-Commerce & Engineering Manager**, *Vipsportnahrung.* 2010 – 2012
   - Lead Migration from a legacy E-Commerce Platform to Magento.  
   - ERP Implementation (OpenERP).
+  - Design and improve engineering and project management processes, practices and standards.
   - Manage the maintenance and improvement of the platform.
-  
+  - Manage to budget targets and work with the executive team and the product owners. 
+
+  **Full-Stack Magento Developer**, *Blickvang GmbH.* 2008 – 2010
+  - Magento core development.
+  - Third party module integration.
+  - Custom API development & integration.
+  - Developing responsive sites for mobile and tablet platforms.
+  - Optimize infrastructure for maximum speed, usability, and reliability.
+  - Translation of business needs into technical specifications and projects.
+
 EDUCATION
 =========
- - React Native - Computer Science Course — Harvard University, Course / E-Learning
+ - React Native - CS Course — Harvard University, E-Learning
  - B.A Business Administration — International University Vienna, Vienna
  - Software Engineering — WIFI, Vienna 
  - Mechanical Engineering — Höhere Technische Bundeslehranstalt, Vienna
