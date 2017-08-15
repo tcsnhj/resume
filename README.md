@@ -23,7 +23,6 @@ Technologies
 EXPERIENCE
 ----------
 **Chief Technology Officer**, *Dr.Förster AG Group.* Sep 2016 – Current
-
   - Develop technical aspects of the company’s strategy to ensure alignment with its business goals.
   - Communicate technology strategy to staff, partners, customers, prospective customer and investors.
   - Monitor KPIs and IT budgets to assess technological performance.
@@ -33,9 +32,8 @@ EXPERIENCE
   - Hire and manage developers in Berlin & Neu-Isenburg.
   - Influence development & deployment process and best practices.
   - Motivate and support team productivity, efficiency, and happiness.
-  
+
 **Interim CTO / Development Operations Manager**, *fineartmultiple.com.* July 2015 – August 2016
-  
   - Building an Online Art Marketpalce form Concept to Completion within 6 months. 
   - Hiring & Mentoring new engineers and put them through formal training.
   - Define, measure and monitor tech SLAs and KPIs.
@@ -43,7 +41,7 @@ EXPERIENCE
   - Act as communicator between Business and technical teams.
   - Build solid architectures Amazon AWS.
   - Set goals, objectives and priorities. Mentor team members, provide guidance by regular performance reviews.
-  
+
 **CTO / Partner**, *23 Digital Concepts GmbH.* January 2013 – July 2015
   - Built an engineering organization to ~20 across 3 teams for E-Commerce Agency.  
   - Streamlining development processes, inter-org communication.
@@ -55,3 +53,18 @@ EXPERIENCE
   - Coordinating the evangelism and developer advocacy effort.
   - Delivering innovative and polished products.
   - Ensure scalability, stability, security and performance of our infrastructure.
+
+**Head of E-Commerce, Web**, *P&P Medien GmbH.* February 2012 – January 2013
+  - Grow and lead a team of engineers in an agile working environment.
+  - Prepare & deliver, reports and presentations to executive leadership & stakeholders.
+  - Contributing to decision making in regards to the direction of our products and focus on the software tools and development markets.
+  - Manage the relationships with the existing third party providers.
+  - Lead and manage the on-going Projects and trading and optimisation schedule. 
+  - Defining KPIs and continuously reviewing value delivered and success metrics
+
+EDUCATION
+=========
+ - React Native - Computer Science Course — Harvard University, Course / E-Learning
+ - B.A Business Administration — International University Vienna, Vienna
+ - Software Engineering — WIFI, Vienna 
+ - Mechanical Engineering — Höhere Technische Bundeslehranstalt, Vienna
