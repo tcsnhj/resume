@@ -33,7 +33,7 @@ EXPERIENCE
   - Hire and manage developers in Berlin & Neu-Isenburg.
   - Influence development & deployment process and best practices.
   - Motivate and support team productivity, efficiency, and happiness.
-
+  
 **Interim CTO / Development Operations Manager**, *fineartmultiple.com.* July 2015 – August 2016
   
   - Building an Online Art Marketpalce form Concept to Completion within 6 months. 
@@ -43,3 +43,15 @@ EXPERIENCE
   - Act as communicator between Business and technical teams.
   - Build solid architectures Amazon AWS.
   - Set goals, objectives and priorities. Mentor team members, provide guidance by regular performance reviews.
+  
+**CTO / Partner**, *23 Digital Concepts GmbH.* January 2013 – July 2015
+  - Built an engineering organization to ~20 across 3 teams for E-Commerce Agency.  
+  - Streamlining development processes, inter-org communication.
+  - Project planning and headcount/resource allocation.
+  - Participant in board meetings and high level strategic decision making.
+  - Working with sales and marketing to meet quarterly revenue goals.
+  - Interfacing directly with top tier customers.
+  - Making technical decisions about our tools and software.
+  - Coordinating the evangelism and developer advocacy effort.
+  - Delivering innovative and polished products.
+  - Ensure scalability, stability, security and performance of our infrastructure.
