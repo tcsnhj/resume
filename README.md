@@ -13,12 +13,13 @@ Management
 
 Technologies
 ---------------
-* **Backend**: Python, PHP, Javascript, Rust, Postgres, MYSQL, Node.js
-* **Modern Web**: Webpack, Gulp, React.js, Sass, Flux, Express
-* **Frameworks**: Laravel, Symfony, React Native, Flask, Selenium
-* **Platforms**: Magento, Shopware, Odoo, Drupal, Grav
-* **Infrastructure**: Linux, AWS, Ansible, Digital Ocean, Enterprise Exchange, On-premise Servers, 
-* **Software Delivery**: Test Automation, Continuous Integration, Configuration Management
+| Backend    | Modern Web | Databases | Frameworks   | Infrastructure | DevOps  | Platforms |
+|------------|------------|-----------|--------------|----------------|---------|-----------|
+| Python     | Webpack    | Postgres  | Laravel      | Linux          | Ansible | Magento   |
+| PHP        | React Js   | MYSQL     | Symfony      | AWS            | Jenkins | Shopware  |
+| Javascript | Sass       | mongodb   | Flask        | Digital Ocean  | Docker  | Odoo ERP  |
+| Rust       | Flux       |           | React Native | Docker         | Vagrant | Drupal    |
+|            | Express    |           | Selenium     | Microsoft 365  |         | Grav      |
 
 Experience
 ----------
