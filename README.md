@@ -20,7 +20,7 @@ Technologies
 * **Infrastructure**: Linux, AWS, Ansible, Digital Ocean, Enterprise Exchange, On-premise Servers, 
 * **Software Delivery**: Test Automation, Continuous Integration, Configuration Management
 
-EXPERIENCE
+Experience
 ----------
 **Chief Technology Officer**, *Dr.Förster AG Group.* Sep 2016 – Current
   - Develop technical aspects of the company’s strategy to ensure alignment with its business goals.
@@ -77,7 +77,7 @@ EXPERIENCE
   - Optimize infrastructure for maximum speed, usability, and reliability.
   - Translation of business needs into technical specifications and projects.
 
-EDUCATION
+Education
 =========
  - React Native - CS Course — Harvard University, E-Learning
  - B.A Business Administration — International University Vienna, Vienna
