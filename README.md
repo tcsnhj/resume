@@ -68,7 +68,7 @@ Experience
   - Design and improve engineering and project management processes, practices and standards.
   - Manage the maintenance and improvement of the platform.
   - Manage to budget targets and work with the executive team and the product owners. 
-
+  
   **Full-Stack Magento Developer**, *Blickvang GmbH.* 2008 – 2010
   - Magento core development.
   - Third party module integration.
@@ -76,6 +76,12 @@ Experience
   - Developing responsive sites for mobile and tablet platforms.
   - Optimize infrastructure for maximum speed, usability, and reliability.
   - Translation of business needs into technical specifications and projects.
+  
+    **Full-Stack Web Developer**, *Safa Academy.* 2006 – 2008
+  - Development of web applications Use technologies such as PHP, MySQL and Javascript. 
+  - Work with product, UX team to define, architect, and build new features, from concept to launch.
+  - Build reusable code and libraries for future use.
+  - Responsible for production infrastructure and own the full life-cycle of code.
 
 Education
 =========
