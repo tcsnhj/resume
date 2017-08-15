@@ -54,14 +54,19 @@ EXPERIENCE
   - Delivering innovative and polished products.
   - Ensure scalability, stability, security and performance of our infrastructure.
 
-**Head of E-Commerce, Web**, *P&P Medien GmbH.* February 2012 – January 2013
+**Head of E-Commerce**, *P&P Medien GmbH.* February 2012 – January 2013
   - Grow and lead a team of engineers in an agile working environment.
   - Prepare & deliver, reports and presentations to executive leadership & stakeholders.
   - Contributing to decision making in regards to the direction of our products and focus on the software tools and development markets.
   - Manage the relationships with the existing third party providers.
   - Lead and manage the on-going Projects and trading and optimisation schedule. 
-  - Defining KPIs and continuously reviewing value delivered and success metrics
+  - Defining KPIs and continuously reviewing value delivered and success metrics.
 
+  **E-Commerce & Engineering Manager**, *Vipsportnahrung.* 2010 – 2012
+  - Lead Migration from a legacy E-Commerce Platform to Magento.  
+  - ERP Implementation (OpenERP).
+  - Manage the maintenance and improvement of the platform.
+  
 EDUCATION
 =========
  - React Native - Computer Science Course — Harvard University, Course / E-Learning
