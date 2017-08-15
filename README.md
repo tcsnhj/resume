@@ -1,4 +1,4 @@
-Waleed Hussain Khan - CTO / Software Engineering Leader
+Waleed Hussain Khan - CTO / Software Engineer
 ---------------
 info@waleed.de | [Github](http://github.com/waleedhkhan) | [Website](http://waleed.de)
 
