@@ -23,7 +23,7 @@ Technologies
 
 Experience
 ----------
-**Chief Technology Officer**, *Dr.Förster AG Group.* Sep 2016 – Current
+**Chief Technology Officer**, *Dr.Förster AG Group.* Sep 2016 – Nov 2017
   - Develop technical aspects of the company’s strategy to ensure alignment with its business goals.
   - Communicate technology strategy to staff, partners, customers, prospective customer and investors.
   - Monitor KPIs and IT budgets to assess technological performance.
